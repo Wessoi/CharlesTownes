@@ -49,6 +49,16 @@
         "url": "https://fonts.googleapis.com/css?family=Mukta:200,300,400,500,600,700,800"
       }
     ],
+    "favicon": "@PROJECT_PATH@/assets/images/frame-3.png",
+    "mbrsiteDomain": "dd3whyiom9",
+    "imageResize": false,
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 23,
     "versionPublish": "5.8.12"
   },
